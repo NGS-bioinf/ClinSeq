@@ -11,7 +11,7 @@ It integrates k-mer statistics from **KrakenUniq** and calculates a composite sc
 ClinSeq assigns this score to each detected microorganism and produces a **ranked list** from highest to lowest score.  
 This ranking helps prioritize potentially important detections in complex NGS datasets.
 
-Created and maintained by Jan Slunečko (slunecko.jan@gmail.com)
+Created Jan Slunečko
 ---
 
 ## Features
